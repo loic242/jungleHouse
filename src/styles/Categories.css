@@ -1,0 +1,16 @@
+.lmj-categories {
+	text-align: center;
+	padding-top: 30px;
+}
+
+.lmj-categories-select {
+	margin-right: 15px;
+}
+.reset{
+	background-color: #31b472;
+	width: 75px;
+	height: 25px;
+	border: none;
+	border-radius: 999px;
+	color: aliceblue;
+}
